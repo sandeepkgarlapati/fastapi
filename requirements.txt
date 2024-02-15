@@ -1,0 +1,7 @@
+fastapi
+black
+poetry
+uvicorn
+httpie
+requests
+httpx

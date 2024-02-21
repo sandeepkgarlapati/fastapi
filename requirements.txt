@@ -5,3 +5,5 @@ uvicorn
 httpie
 requests
 httpx
+pytest
+Mypy
